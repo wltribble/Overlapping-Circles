@@ -1,16 +1,3 @@
-% Course: CSCI 251, Section 3
-% Student Name: Will Tribble
-% Student ID: 10540462
-% Programming Assignment 2 homework
-% Due Date: 8 Oct. 2015
-
-% In keeping with the Honor Code of UM, I have neither given nor received
-% assistance from anyone other than the instructor.
-
-% Program Description: Take user inputs for the centers and radii of two
-% circles. Output if one circle is inside the other, if they overlap, or if
-% they do not touch. 
-
 clc
 clear
 
